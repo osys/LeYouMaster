@@ -3,6 +3,7 @@
 
 # 项目架构图
 ![架构缩略图](https://raw.githubusercontent.com/osys/LeYouMaster/master/source/1525703759035.png)
+![架构缩略图](./master/source/1525703759035.png)
 
 # 文件说明
 1. leyou ------ 后台系统
